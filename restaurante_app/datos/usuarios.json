@@ -1,0 +1,20 @@
+[
+    {
+        "identificacion": "admin",
+        "nombre": "Administrador",
+        "rol": "Administrador",
+        "contrasena": "1234"
+    },
+    {
+        "identificacion": "empleado",
+        "nombre": "Empleado Demo",
+        "rol": "Empleado",
+        "contrasena": "1234"
+    },
+    {
+        "identificacion": "cliente",
+        "nombre": "Cliente Demo",
+        "rol": "Cliente",
+        "contrasena": "1234"
+    }
+]

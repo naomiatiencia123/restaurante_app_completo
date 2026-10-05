@@ -1,0 +1,20 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa",
+        "precio": 4.5,
+        "stock": 20
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Pizza",
+        "precio": 8.0,
+        "stock": 15
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Jugo natural",
+        "precio": 2.0,
+        "stock": 30
+    }
+]
